@@ -16,7 +16,8 @@ Senior Mixed Reality Developer 🥽Microsoft MVP 🏆LiveCoder 🌷 WebXR / WebV
 ![](https://github-readme-stats.vercel.app/api?username=sorskoot&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sorskoot&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorskoot&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sorskoot&cover_image=true&theme=novatorem&show_offline=false&bar_color=a64eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 [![](https://visitcount.itsvg.in/api?id=sorskoot&icon=2&color=11)](https://visitcount.itsvg.in)
 
