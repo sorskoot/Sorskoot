@@ -5,7 +5,7 @@
 -->
 
 # 💫About Me :
-Sorskoot is a virtual reality wizard and AI hacker who has been conjuring digital creations for over two decades. He's a versatile magician, able to cast spells in web development, mobile app creation, and even 3D artist impressions. When he's not busy being a coding superhero, you can find Timmy tweeting up a storm at @sorskoot, blogging on https://timmykokke.com, or streaming his coding live on https://twitch.tv/sorskoot.
+Sorskoot is a virtual reality wizard and AI hacker who has been conjuring digital creations for over two decades. He's a versatile magician, able to cast spells in web development, mobile app creation, and even 3D artist impressions. When he's not busy being a coding superhero, you can find Timmy tweeting up a storm at @sorskoot, blogging on https://timmykokke.com, or streaming his coding live on https://youtube.com/sorskoot.
 
 But Sorskoot's not just a developer - he's also a *'hacker'* with a love for breaking things and using AI to automate his mischief. With his technical expertise and love for all things code, Sorskoot is always pushing the boundaries and finding new ways to innovate.
 
