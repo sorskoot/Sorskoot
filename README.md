@@ -22,7 +22,7 @@ Sorskoot's skills have earned him the prestigious titles of senior developer, te
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorskoot&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Currently coding to : 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sorskoot&cover_image=true&theme=novatorem&show_offline=false&bar_color=a64eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sorskoot&cover_image=true&theme=novatorem&show_offline=false&bar_color=a64eb1&bar_color_cover=false)
 
 ### Pins:
 [![@sorskoot's Holopin board](https://holopin.me/sorskoot)](https://holopin.io/@sorskoot)
